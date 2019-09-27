@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="HW3b.css"?> 
+<songs> 
+    <heading>Bar Mitzvah Setlist </heading> 
+    <song> 
+        <name>Name -: I Gotta Feeling</name> 
+        <artist>Black Eyed Peas<artist>
+    </song> 
+    <song> 
+        <name>Name -: DJ Got Us Fallin in Love</name> 
+        <artist>Usher<artist>
+    </song> 
+    <song> 
+        <name>Name -: Tik-Tok</name> 
+        <artist>Ke$ha<artist>   
+    </song> 
+    <song> 
+        <name>Name -: Hey, Soul Sister</name> 
+        <artist>Train<artist>
+    </song> 
+    <song> 
+        <name>Name -: Break Your Heart</name> 
+        <artist>Taio Cruz Featuring Ludacris<artist>
+    </song> 
+    <song> 
+        <name>Name -: In My Head</name> 
+        <artist> <artist>
+    </song> 
+    <song> 
+        <name>Name -: Just the Way You Are</name> 
+        <artist>Bruno Mars<artist>
+    </song> 
+    <song> 
+        <name>Name -: Billionaire</name> 
+        <artist>Travie Mccooy Featuring Bruno Mars<artist>
+    </song> 
+
+    <song> 
+        <name>Name -: Fireflies</name> 
+        <artist>Owl City<artist>
+    </song> 
+    <song> 
+        <name>Name -: Like A G6</name> 
+        <artist>Far East Movement Featuring The Cataracs, DEV<artist>
+    </song> 
+</songs> 
