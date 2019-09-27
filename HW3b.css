@@ -24,6 +24,6 @@ heading {
 	font-style: bold;
 }
 
-song, name, artist, heading, genre{
+song, name, artist, heading, genre, year{
 	display: block;
 }
