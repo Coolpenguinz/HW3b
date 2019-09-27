@@ -4,13 +4,17 @@ song {
 	width: 100%;
 	white-space: pre;
 }
+genre {
+	font-size: 20px;
+}
+year {
+	font-size: 20px;
+}
 name {
 	font-size: 30px;
-	white-space: pre;
 }
 artist {
 	font-size: 20px;
-	white-space: pre;
 }
 heading {
 	font-size: 50px;
