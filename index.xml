@@ -5,50 +5,61 @@
     <song> 
         <name>Name -: I Gotta Feeling</name> 
         <artist>Black Eyed Peas</artist>
+        <genre>Pop</genre>
+        <year>2009</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: DJ Got Us Fallin in Love</name> 
         <artist>Usher</artist>
+        <genre>Contemporary R+B</genre>
+        <year>2010</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: Tik-Tok</name> 
-        <artist>Ke$ha</artist>   
-    </song>
-    <br></br> 
+        <artist>Ke$ha</artist> 
+        <genre>Pop</genre>
+        <year>2009</year>  
+    </song> 
     <song> 
         <name>Name -: Hey, Soul Sister</name> 
         <artist>Train</artist>
+        <genre>Pop Rock</genre>
+        <year>2009</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: Break Your Heart</name> 
         <artist>Taio Cruz Featuring Ludacris</artist>
-    </song>
-    <br></br> 
+        <genre>Pop</genre>
+        <year>2009</year>
+    </song> 
     <song> 
         <name>Name -: In My Head</name> 
         <artist>Jason Derulo</artist>
+        <genre>Contemporary R+B</genre>
+        <year>2009</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: Just the Way You Are</name> 
         <artist>Bruno Mars</artist>
+        <genre>Pop</genre>
+        <year>2010</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: Billionaire</name> 
-        <artist>Travie Mccooy Featuring Bruno Mars</artist>
+        <artist>Travie Mccoy Featuring Bruno Mars</artist>
+        <genre>Pop</genre>
+        <year>2010</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: Fireflies</name> 
         <artist>Owl City</artist>
+        <genre>Electropop</genre>
+        <year>2009</year>
     </song> 
-    <br></br>
     <song> 
         <name>Name -: Like A G6</name> 
         <artist>Far East Movement Featuring The Cataracs, DEV</artist>
+        <genre>House Pop</genre>
+        <year>2010</year>
     </song> 
 </songs> 
