@@ -2,16 +2,15 @@ song {
 	color: black;
 	background-color: white;
 	width: 100%;
-	white-space: pre-line;
-	white-space: pre-line;
+	white-space: pre;
 }
 name {
 	font-size: 30px;
-	white-space: pre-line;
+	white-space: pre;
 }
 artist {
 	font-size: 20px;
-	white-space: pre-line;
+	white-space: pre;
 }
 heading {
 	font-size: 50px;
