@@ -23,6 +23,6 @@ heading {
 	font-style: bold;
 }
 
-song, name, artist, heading {
+song, name, artist, heading, genre{
 	display: block;
 }
