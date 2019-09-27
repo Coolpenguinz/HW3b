@@ -16,3 +16,7 @@ heading {
 	font-size: 50px;
 	font-style: bold;
 }
+
+song, name, artist, heading {
+	display: block;
+}
